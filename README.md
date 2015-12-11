@@ -20,8 +20,9 @@
 - 3) Tiempo Inactivo Mostrara el tiempo que se lleva sin envir mensages o sin escribir en la seccion de Escriba.
 - 4) En Conversacion tendremos el nombre del canal al que estamos conectados.
 - 5) En la seccion de Escriba Escribiremos nuestro mensage y daremos click en el boton enviar.
-- 6) En caso de querer crear un nuevo canal iremos  a la seccion de canales y escribiremos el nombre del nuevo canal para finalizar damos click en el boton "+".
-- 
+- 6) En caso de querer crear un nuevo canal iremos  a la seccion de canales y escribiremos el nombre del nuevo canal para finalizar damos click en el boton "+" y listo.
+- 7) Si queremos cambiar de canal solo damos click en el nombre del canal que queramos.
+- 8) Si pasan mas de 5 minutos nuestra coneccion se perdio por lo que no podremos enviar mensages entonces debemos conectarnos otravez.
 
 #Manual de Instalación
 - Contar con ApacheTomcat, jdk en la maquina y que este configurado para ejecutarse en nuestra direccion localhost:8080 o alguna otra.
