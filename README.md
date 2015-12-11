@@ -15,6 +15,13 @@
 - Agregar Emoticones: se agregan emoticones pulsaldo click en la imagen o agregandola directamente en el texto ("Ejemplo sasd:)"). 
 
 #Manual de Usuario (Como Usar El Chat)
+- 1) En la Seccion Usuario Agregar Nombre de Usuario y Dar click en conectar.
+- 2) Mostrara los canales existentes.
+- 3) Tiempo Inactivo Mostrara el tiempo que se lleva sin envir mensages o sin escribir en la seccion de Escriba.
+- 4) En Conversacion tendremos el nombre del canal al que estamos conectados.
+- 5) En la seccion de Escriba Escribiremos nuestro mensage y daremos click en el boton enviar.
+- 6) En caso de querer crear un nuevo canal iremos  a la seccion de canales y escribiremos el nombre del nuevo canal para finalizar damos click en el boton "+".
+- 
 
 #Manual de Instalación
 - Contar con ApacheTomcat, jdk en la maquina y que este configurado para ejecutarse en nuestra direccion localhost:8080 o alguna otra.
