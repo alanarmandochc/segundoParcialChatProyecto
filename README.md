@@ -12,6 +12,7 @@
 - Enviar Mensage: se envia una cadena de texto y se publica en nuestra conversación dependiendo del canal seran los usuarios que lo puedan ver.
 - Publicacion: publica un mensage enviado por un usuario.
 - bloqueo de mensages : si el tiempo en el reloj excede o 5 minutos se bloquea el boton de envio de mensage entonces debe conectarse otra vez.
+- Agregar Emoticones: se agregan emoticones pulsaldo click en la imagen o agregandola directamente en el texto ("Ejemplo sasd:)"). 
 
 #Manual de Usuario (Como Usar El Chat)
 
