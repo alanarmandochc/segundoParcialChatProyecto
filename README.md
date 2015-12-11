@@ -17,9 +17,17 @@
 #Manual de Usuario (Como Usar El Chat)
 
 #Manual de Instalación
+- Contar con ApacheTomcat, jdk en la maquina y que este configurado para ejecutarse en nuestra direccion localhost:8080 o alguna otra.
+- En la carpeta de ApacheTomcat/webapps
+- Agregar el archivo [nombre].war
+- Ir a consola 
+- Entrar al diractorio ApacheTomcat/bin por consola
+- Para iniciar nuestro servicio ejecutar startup.bat en consola
+- Ir a nuestro navegador y agregar nuestra ruta 
 
 #Stack
 - JavaScript
 - Java (Servlets)
 - HTML
+
 
