@@ -1,4 +1,4 @@
-# Proyecto de Segundo Parcial
+# Proyecto de Segundo Parcial NOTA : (MI PROYECTO ARRANCA EN EL PUERTO 8084)
 
 #Descripción del Proyecto
 - Programa de chat que permite a un usuario comunicarse con dos o más usuarios que estén conectados a un canal siempre y cuando este usuario este también conectado al canal.
@@ -25,7 +25,8 @@
 - 8) Si pasan más de 5 minutos nuestra conexión se perdió por lo que no podremos enviar mensajes entonces debemos conectarnos otra vez.
 
 #Manual de Instalación
-- Contar con ApacheTomcat, jdk en la maquina y que este configurado para ejecutarse en nuestra dirección localhost:8080 o alguna otra.
+- NOTA : (MI PROYECTO ARRANCA EN EL PUERTO 8084)
+- Contar con ApacheTomcat, jdk en la maquina y que este configurado para ejecutarse en nuestra dirección localhost:8084 o alguna otra.
 - En la carpeta de ApacheTomcat/webapps
 - Agregar el archivo [nombre].war
 - Ir a consola 
